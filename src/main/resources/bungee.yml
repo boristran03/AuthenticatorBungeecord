@@ -1,0 +1,3 @@
+name: AuthenticatorBungeecord
+version: '${project.version}'
+main: com.minefh.authenticatorbungeecord.AuthenticatorBungeecord
